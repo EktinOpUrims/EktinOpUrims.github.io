@@ -26,6 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+kramdown:
+    math_engine: mathjax
 theme: minima
 plugins:
   - jekyll-feed
