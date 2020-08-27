@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "How to create your site, and host it on github"
 date:   2020-08-27 15:25:47 +0200
 categories: jekyll update
 ---
