@@ -20,6 +20,9 @@ categories: jekyll update
 		</ul>
 	</li>
 	<li><a href="https://xuc.me/blog/katex-and-jekyll/">to incorporate Latex</a></li>
+	Based and combines two other posts 
+	<a href="https://web.archive.org/web/20170117172154/http://willdrevo.com/latex-equation-rendering-in-javascript-with-jekyll-and-katex/"> Katex </a>
+	and <a href="https://www.intmath.com/blog/mathematics/katex-a-new-way-to-display-math-on-the-web-9445"> Katex 2 </a>
 	<li><a href="https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#preparing-for-installation-">
 		Another detailed instruction to set up jekyll and github
 	</li>
