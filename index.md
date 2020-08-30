@@ -4,3 +4,11 @@
 
 layout: home
 ---
+
+Unde jsme
+
+$$x^2$$
+
+<ul>
+<li>formula $$x+x$$ vot kak </li>
+</ul>

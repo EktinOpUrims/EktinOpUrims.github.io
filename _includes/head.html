@@ -9,9 +9,15 @@
     {%- include google-analytics.html -%}
   {%- endif -%}
   
-  {% if page.katex %}
-  <!-- KsTex -->
+  <!--KaTex 
+    {% if page.katex %}
+    
   <link rel="stylesheet" href="/assets/plugins/katex/katex.min.css">
-  {% endif %}
-  
+  {% endif %}-->
+
+  <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.1.1/katex.min.css">
+  <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.1.1/katex.min.js"></script>
+
+
 </head>
