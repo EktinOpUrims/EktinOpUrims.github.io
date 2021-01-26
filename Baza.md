@@ -40,10 +40,15 @@ Periodic Travelling Waves of the Modified KdV Equation and Rogue Waves on the Pe
 </dl>
 
 
-<ul>Books
+<ul><h1>Books</h1>
 <li>Albrecht Böttcher, Yuri I. Karlovich. Carleson curves, Muckenhoupt weights, and Toeplitz operators. 1997
 <a href="/data/books/bottcher_karlovich_1997 Carleson Curves, Muckenhoupt Weights, and Toeplitz Operators.pdf">pdf</a>
+</li>
 
+<li>
+David Albrecht, Xuang Duong, Alan McIntosh. Operator theory and harmonic analysis.
+<a href="/data/books/CMAProcVol34P3-AlbrechtDuongM.pdf">pdf</a>
+<a href="https://maths.anu.edu.au/files/CMAProcVol34P3-AlbrechtDuongM.pdf">link</a>
 </li>
 </ul>
 
@@ -55,6 +60,8 @@ William McLean, Hölder estimates for the Cauchy integral on a Lipschitz contour
 <a href="/data/papers_operators/euclid.jiea.1214948419.pdf">pdf</a>
 <a href="https://projecteuclid.org/download/pdf_1/euclid.jiea/1214948419.pdf">link</a>
 </li>
+
+
 
 <li>Link to tyre
 
