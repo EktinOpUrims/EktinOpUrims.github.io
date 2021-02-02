@@ -72,6 +72,95 @@ Link to tyre</a>
 </ul>
 
 
+
+
+<ul><h1>Painlevé IV</h1>
+
+<a href="http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=20186"> Kitaev </a>
+<a href="http://www.mathnet.ru/php/person.phtml?option_lang=rus&personid=19336"> Kapaev </a>
+
+
+<li> Andrei A. Kapaev. Global asymptotics of the fourth Painlevé transcendent. PDMI preprint 6/1996.
+<a href="/data/PIV/06-96.pdf"> pdf </a>
+<a href="/data/PIV/06-96.ps"> dvi,ps </a>
+<a href="/data/PIV/Kapaev - global asymptotics painleve four (1996).ps.gz"> dvi,ps.gz </a>
+</li>
+
+<li> Andrei A. Kapaev. Connection formulae for the degenerated asymptotic solutions of the fourth Painlevé equation. arXiv: 9805011, 1998
+<a href="/data/PIV/Kapaev - connection formulae for the degenerated asymptotic solutions of the fourth painleve equations (1998).pdf"> pdf </a>
+</li>
+
+<li>
+Andrei A. Kapaev. Degenerated asymptotic solutions of the fourth Painlevé equation. PDMI preprint - 13/1996
+<a href="/data/PIV/saveacopy.48JMCY.pdf"> pdf </a>
+<a href="/data/PIV/saveacopy.48JMCY.ps"> ps </a>
+<a href="/data/PIV/Kapaev - Degenerated asymptotic solutions of the fourth painleve equation (1996).ps.gz"> dvi, ps.gz </a>
+</li>
+
+<li>Kitaev
+А.В. Китаев, Об автомодельных решениях модифицированного нелинейного уравнения Шредингера, ТМФ 1985, 64, 3, 347-369
+<a href="/data/PIV/tmf5032.pdf"> pdf rus </a>
+<a href="http://www.mathnet.ru/links/4a653ad9c5fa88be4c7f3fea3c1facde/tmf5032.pdf"> link pdf rus </a>
+</li>
+
+<small>Связь модифицированного NLS and PIV. Alternative to Jimbo Miwa Ueno Lax pair for PIV. Asymptotics of rotated PIV solution. Exactly what I need?
+</small>
+</ul>
+
+
+<ul>
+<h1><a href="https://people.sissa.it/~dubrovin/">Dubrovin</a></h1>
+</ul>
+
+<ul>
+<h1><a href="https://perso.uclouvain.be/tom.claeys/">Tom Claeys</a></h1>
+
+<li>
+Tom Claeys, Benjamin Fahs, G. Lambert, C. Webb, How much can the eigenvalues of a random Hermitian matrix fluctuate? 4 June 2019, arXiv:1906.01561v1
+<a href="/data/Claeys/1906.01561.pdf">pdf</a>
+<a href="https://arxiv.org/pdf/1906.01561.pdf">arXiv:1906.01561v1</a>
+
+<p><small>pages 86--91 --- analysis of a norm of Cauchy-Hilbert operator on a shrinking contour</small></p>
+</li>
+
+</ul>
+
+
+
+<ul>
+<h1><a href="https://people.sissa.it/~grava/">
+Tamara Grava</a>
+</h1>
+</ul>
+
+
+
+
+<ul>
+<h1>
+<a>Jonatan Lenells</a>
+<a href="https://www.scopus.com/authid/detail.uri?authorId=6602381245">scopus: authorId=6602381245</a>
+</h1>
+<li>
+Christophe Charlier, Jonatan Lenells, Julian Mauersberger, 
+Higher order large gap asymptotics at the hard edge for Muttalib--Borodin ensembles. 28 Jun 2019, arxiv:1906.12130v1 
+<a href="/data/lenells/1906.01561.pdf"> pdf </a>
+<a href="https://arxiv.org/pdf/1906.12130.pdf"> arxiv:1906.12130v1 </a>
+<p><small>small RH analysis: p.32?</small></p>
+<p><small>reference to original NIST 2010</small></p>
+</li>
+
+<li>
+Christophe Charlier, Jonatan Lenells, Airy and Painlevé asymptotics for the mKdV equation. Journal of the London Mathematical Society. p.1--32, doi:10.1112/jlms.12265
+<a href="/data/Lenells/charlier2019.pdf"> pdf </a>
+<a href="sci-hub.se/10.1112/jlms.12265"> link </a>
+</li>
+
+</ul>
+
+
+
+
 <!--
 <ul>
 <li>formula $$x+x$$ vot kak </li>
