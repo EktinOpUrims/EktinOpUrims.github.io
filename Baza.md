@@ -50,6 +50,16 @@ David Albrecht, Xuang Duong, Alan McIntosh. Operator theory and harmonic analysi
 <a href="/data/books/CMAProcVol34P3-AlbrechtDuongM.pdf">pdf</a>
 <a href="https://maths.anu.edu.au/files/CMAProcVol34P3-AlbrechtDuongM.pdf">link</a>
 </li>
+
+<li>Úvod do moderní teorie parciálních diferenciálních rovnic.
+Miroslav Bulíček, Robert Černý, Oldřich John, Josef Málek, Milan Pokorný, Mirko Rokyta, Jana Stará, 2018. 
+<a href="/data/books/moderni_teorie_PDE.pdf"> pdf </a>
+</li>
+
+<li>Some Czech books
+<a href="http://matematika.cuni.cz"> Link </a>
+<a href="http://matematika.cuni.cz/matematika.html"> Link2 </a>
+</li>
 </ul>
 
 
@@ -109,8 +119,33 @@ Andrei A. Kapaev. Degenerated asymptotic solutions of the fourth Painlevé equat
 
 
 <ul>
-<h1><a href="https://people.sissa.it/~dubrovin/">Dubrovin</a></h1>
+<h1><a href="https://people.sissa.it/~dubrovin/"> Boris Dubrovin </a> </h1>
+
+<ul>
+<li>
+Topics in Analytic Theory of Differential Equations"
+<a href="/data/Dubrovin/fismat_web.pdf"> pdf </a>
+<a href="https://people.sissa.it/~dubrovin/fismat_web.pdf"> link </a>
+</li>
+
+<li>
+Mathematical Physics II "Istituzioni di Fisica Matematica"
+<a href="/data/Dubrovin/fm1_web.pdf"> pdf </a>
+<a href="https://people.sissa.it/~dubrovin/bd_courses.html"> link1 </a>
+<a href="https://people.sissa.it/~dubrovin/fm1_web.pdf"> link2 </a>
+</li>
+
+<li>
+Differential geometry
+<a href="/data/Dubrovin/dg.pdf"> pdf </a>
+<a href="https://people.sissa.it/~dubrovin/bd_courses.html"> link1 </a>
+<a href="https://people.sissa.it/~dubrovin/dg.pdf"> link2 </a>
+</li>
+
 </ul>
+</ul>
+
+
 
 <ul>
 <h1><a href="https://perso.uclouvain.be/tom.claeys/">Tom Claeys</a></h1>
@@ -132,6 +167,8 @@ Tom Claeys, Benjamin Fahs, G. Lambert, C. Webb, How much can the eigenvalues of 
 Tamara Grava</a>
 </h1>
 </ul>
+
+
 
 
 
@@ -159,6 +196,8 @@ Christophe Charlier, Jonatan Lenells, Airy and Painlevé asymptotics for the mKd
 </ul>
 
 
+
+<a href="https://examonline.cz/ru/glavnaya-stranitsa/testy/cvut/cvut-fe-cheshskij-yazyk/"> Some Czech materials </a>
 
 
 <!--
