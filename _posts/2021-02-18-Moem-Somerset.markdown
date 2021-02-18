@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Сомерсет Моэм"
-date:   2020-08-29 23:31:07 +0200
+date:   2021-02-18 15:55:07 +0200
 categories: jekyll update
 katex: true
 ---
