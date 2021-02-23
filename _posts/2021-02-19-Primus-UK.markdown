@@ -1,0 +1,158 @@
+---
+layout: post
+title:  "Primus"
+date:   2021-02-19 16:30:07 +0200
+categories: jekyll update
+katex: true
+---
+
+<a href="https://mathscinet-ams-org.ezproxy.is.cuni.cz/mathscinet/"> Mathscinet via UK </a>
+
+
+<a href="https://cuni.cz/uk-7545.html"><font size="+5"> Primus </font></a>
+<a href="/data/Grants/Primus/UK-9587-version1-manual_gap_cprimus_a_unce_2020.pdf"> instructions pdf</a>
+<a href="/data/Grants/Primus/UK-9587-version1-manual_gap_cprimus_a_unce_2020.doc"> instructions doc </a>
+
+<a href="https://cuni.cz/UK-10903.html"><font size="+3">2021 - 2023 Primus 5 kolo</font> </a>
+<table style="width:100%">
+    <tr>
+        <td>souč. UK</td>
+        <td>d.souč. UK</td>
+        <td>číslo</td>
+        <td>hlavní řešitel </td>
+        <td>název</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=303">303.KMA</a></td>
+        <td>21/SCI/002</td>
+        <td><b><a href="https://www2.karlin.mff.cuni.cz/~slavikova/">Slavíková Lenka</a></b></td>
+        <td>Harmonícká analýza, prostory funkcí a jejich interakce</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=105">105.KFPP</a></td>
+        <td>21/SCI/005</td>
+        <td><b><a href="https://www.chem.ox.ac.uk/dr-michal-hejduk.aspx">Hejduk Michal</a></b></td>
+        <td>Nová elektron-iontová past pro studium dynamiky částic v silně vázaném ultra-chladném plazmatu</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=304">304.KNM</a></td>
+        <td>21/SCI/009</td>
+        <td><b><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=10334">Pozza Stefano</a></b></td>
+        <td>Metoda Lanczošova typu pro takzvanou time-ordered exponenciálu</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=301">301.KA</a></td>
+        <td>21/SCI/014</td>
+        <td><b><a href="https://www2.karlin.mff.cuni.cz/~patakova/">Patáková Zuzana</a></b></td>
+        <td>Algebraické metody v diskrétní geometrii a topologii</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=114">114.IPNP</a></td>
+        <td>21/SCI/017</td>
+        <td><b><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12489">Berta Peter</a></b></td>
+        <td>Objevování nových jevů s využitím produkce čtyř top kvarků na Velkém hadronovém urychlovači</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=303">303.KMA</a></td>
+        <td>21/SCI/026</td>
+        <td><b><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=9312">O'Buachalla Re</a></b></td>
+        <td>Nekomutativní Spektrální Geometrie Kvantových Vlajkových Variet</td>
+    </tr>
+</table>
+
+
+<!-- --------------------------------------------------------- 
+--------------------------------------------------------------
+------------------------------------------------------------->
+
+
+<a href="https://cuni.cz/UK-10902.html"><font size="+3">2020 - 2022 Primus 4 kolo</font> </a>
+<table style="width:100%">
+    <tr>
+        <td>souč. UK</td>
+        <td>d.souč. UK</td>
+        <td>číslo</td>
+        <td>hlavní řešitel </td>
+        <td>název</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=105">105.KFPP</a></td>
+        <td>20/SCI/009</td>
+        <td><b><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=12915">Setvin Martin</a>
+<small>
+<a href="/data/Grants/Primus/cv_setvin_2018_11.pdf"> CV </a>
+<a href="https://www.iap.tuwien.ac.at/www/surface/group/setvin/index">link_TU_Vienna</a>
+</small>
+</b></td>
+        <td>Povrchy feroelektrických perovskitů</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=301"> 301.KA </a></td>
+        <td>20/SCI/002</td>
+        <td><b><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=10133">Kala Vítězslav</a>
+<a href="https://sites.google.com/site/vitakala/"> link2 </a>
+<br>
+<a href="https://sites.google.com/site/vitakala/students/vedouci"> <small> Jak na vedoucího </small></a>
+<small>
+<a href="/data/Grants/Primus/Kala_vitezslav_thesis-short.pdf"> HabilitationPDF 
+</a>
+<a href="https://www2.karlin.mff.cuni.cz/~kala/thesis-short.pdf"> HabilitationLINK </a>
+</small></b></td>
+        <td> Univerzální kvadratické formy: geometrie a analýza </td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=102">102.FUUK</a></td>
+        <td>20/SCI/018</td>
+        <td><b><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=11870"> Zázvorka Jakub </a></b></td>
+        <td> Multivrstevné systémy s antiferomagnetickou interakcí pro spintronické </td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=116">116.UTF</a></td>
+        <td>20/SCI/003</td>
+        <td><b><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=11473"> Mašín Zdeněk </a></b></td>
+        <td>Nové mechanismy poškození DNA působením elektronů a ultrafialového záření</td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/department?code=306">306.MUUK</a></td>
+        <td>20/SCI/015</td>
+        <td><b><a href="https://www.mff.cuni.cz/en/faculty/organizational-structure/people?hdl=12919">Allolio Christoph</a>
+<small>
+<a href="https://www2.karlin.mff.cuni.cz/~allolio/"> site </a>
+</small></b></td>
+        <td> Remodelování lipidových membrán s aplikacemi v biomedicíně </td>
+    </tr>
+    <tr>
+        <td>MFF</td>
+        <td><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/katedra?code=201">201.KSVI</a></td>
+        <td>20/MED/006</td>
+        <td><b><a href="https://www.mff.cuni.cz/cs/fakulta/organizacni-struktura/lide?hdl=11457"> Antolík Ján </a>
+<small>
+<a href="http://antolik.net"> jekyll_site </a>
+</small>
+</b></td>
+        <td>Výpočtové metody ve vizuálních neurovědách </td>
+    </tr>
+</table>
+
+
+
+<p>
+Hello
+<br>
+Hi
+</p>
+
+<p style="color:blue">
+Ciao
+</p>
